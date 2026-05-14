@@ -33,11 +33,6 @@
 ## 🧑‍💻 About Me
 
 ```python
-# ──────────────────────────────────────────────────────────────
-#  👤  hayotbek.py
-#  🐍  Python 3.11  |  Backend Developer  |  Tashkent, UZ 🇺🇿
-# ──────────────────────────────────────────────────────────────
-
 class Developer:
 
     name       = "Hayotbek Qaxxorjonov"
@@ -123,29 +118,8 @@ class Developer:
   <img src="https://img.shields.io/badge/Permissions_&_Roles-a371f7?style=flat-square&logoColor=white"/>
 </p>
 
-### 🐳 DevOps & Infrastructure
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-</p>
 
-### 🧪 Testing & Code Quality
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/unittest-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coverage.py-00897B?style=flat-square&logo=codecov&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Factory_Boy-FF6F00?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Black-000000?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flake8-000000?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/isort-4c72b0?style=flat-square&logo=python&logoColor=white"/>
-</p>
 
 ### ⚙️ Tools & Version Control
 
@@ -159,16 +133,6 @@ class Developer:
   <img src="https://img.shields.io/badge/.env_/_dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=black"/>
 </p>
 
-### 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-</p>
 
 ---
 
